@@ -18,3 +18,17 @@
 	<div class="n"></div>
 </div>
 </body>
+body{
+	margin: 0
+}
+.box{
+	padding: 3% 0 0 3%;
+}
+.n{
+    padding: 30% 0 0 0;
+    margin: 0 3% 3% 0;
+    width: 30%;
+    background-color:#FFA600;
+    border-radius: 10px;
+    float: left;
+}
